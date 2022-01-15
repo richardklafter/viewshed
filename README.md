@@ -5,9 +5,9 @@ ViewSHED is an open-source API for computing the visible area given a location a
 
 Calculating viewshed is not particularly hard but wrangling together the data and learning an appropriate GIS tool can be challenging. ViewSHED has an [easy to use web interface](http://viewshed.icyego.com/viewshed) and uses accurate (90 meter) global elevation data making calculating viewshed easy.
 
-##[DEMO](http://viewshed.icyego.com/viewshed)
+## [DEMO](http://viewshed.icyego.com/viewshed)
 
-##API
+## API
 ### ViewShed
 Calculates the the [viewshed](https://en.wikipedia.org/wiki/Viewshed) given a location and elevation.
 ``` bash
